@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Randomizer App</string>
+    <string name="randomizer">Randomizer</string>
+    <string name="roll_dice">Roll dice</string>
+    <string name="coin_flipping">Coin flipping</string>
+    <string name="roll">Roll</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="flip_coin">Flip coin</string>
+</resources>
